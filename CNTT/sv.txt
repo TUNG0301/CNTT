@@ -1,0 +1,7 @@
+4;15;Chu Tuan Kiet;03/03/2001;2
+2;04;Nguyen Van Dai;01/01/2001;5
+3;01;Nguyen Tung Lam;02/02/2001;7
+5;01;Nguyen Dang Hieu;04/04/2001;4
+6;02;Be Quoc Khanh;05/05/2001;6
+1;16;Nguyen Quoc Thinh;06/10/2001;9
+
